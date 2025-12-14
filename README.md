@@ -1,4 +1,3 @@
-# Student-marks-analysis-excel
 # Student Marks Performance Analysis (Excel)
 
 ## Project Overview
